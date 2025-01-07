@@ -1,0 +1,6 @@
+npm install -g nuxi
+nuxi init <project>
+cd <projeto>
+npm i
+npm install @quasar/extras quasar
+
